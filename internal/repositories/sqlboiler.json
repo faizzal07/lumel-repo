@@ -1,0 +1,15 @@
+{
+    "output": "models",
+    "wipe": true,
+    "pkgname": "models",
+    "add-global-variants": true,
+    "add-enum-types": true,
+    "psql": {
+        "dbname": "lumeldb",
+        "host": "localhost",
+        "port": 5432,
+        "user": "faizal",
+        "sslmode": "disable"
+    }
+}
+
